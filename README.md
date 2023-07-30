@@ -1,2 +1,2 @@
 # kotlin-oo-banking
-Alura Course: https://cursos.alura.com.br/course/kotlin-orientacao-objetos
+Banking application based on [Alura Course](https://cursos.alura.com.br/course/kotlin-orientacao-objetos)
